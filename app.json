@@ -1,0 +1,7 @@
+{
+  "name": "calculator",
+  "displayName": "calculator",
+  "expo":{
+    "name":"calculator"
+  }
+}
